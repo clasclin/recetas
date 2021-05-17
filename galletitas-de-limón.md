@@ -1,7 +1,7 @@
 # Galletitas de limón.
 
-- Tiempo de preparación:
-- Tiempo de cocción: 
+- Tiempo de preparación: 30 min
+- Tiempo de cocción: 20 min
 - Porciones:
 
 ## Ingredientes

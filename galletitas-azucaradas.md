@@ -10,8 +10,8 @@
 
 - 350 g harina leudante
 - 125 g azúcar
-- 75 ml aceite
-- 75 ml leche
+- 66 g aceite
+- 50 g leche
 - 1 cdta esencia de vainilla
 - 1 huevo
 
